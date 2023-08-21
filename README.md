@@ -49,9 +49,9 @@ In summary, this HTML code represents a personal portfolio website for Ganesh Ye
     - Icons from the Font Awesome library are used for visual enhancements.
 
 ## Project Screenshots
-![Screenshot1](https://drive.google.com/file/d/10l5FX3WtgLcKWcUYpJON6FLzAmDq8Nvc/view?usp=drive_link)
-![Screenshot2](https://drive.google.com/file/d/14rL788HX9BA-0AV1uXhvo2tIf-bTfc8e/view?usp=drive_link)
-![Screenshot3](https://drive.google.com/file/d/1l118lRv83YwJ0InLf8FG5OLZJ5Pv9ZOF/view?usp=sharing)
+![Screenshot1](https://github.com/ganeshyevle/MY_PORTFOLIO/blob/main/Screenshot%20(238).png)
+![Screenshot2](https://github.com/ganeshyevle/MY_PORTFOLIO/blob/main/Screenshot%20(239).png)
+![Screenshot3](https://github.com/ganeshyevle/MY_PORTFOLIO/blob/main/Screenshot%20(240).png)
 
 
 ## Language of Implementation:
